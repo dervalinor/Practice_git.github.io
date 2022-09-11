@@ -1,8 +1,6 @@
 body {
     color: #7FFFD4;
     background-image: url("https://i.imgur.com/PAYdClD.png");
+     background-size: 100%;
 }
 
-img {
-    margin: 10px;
-}
